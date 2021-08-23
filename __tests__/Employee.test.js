@@ -14,7 +14,7 @@ describe("employee", () => {
     });
   });
 
-  describe("getID", () => {
+  describe("getId", () => {
     it("should return id ", () => {
 
       const result = new Employee(name, id, email);
@@ -23,12 +23,12 @@ describe("employee", () => {
     });
   });
 
-  describe("getID", () => {
-    it("should return id ", () => {
+  describe("getEmail", () => {
+    it("should return email ", () => {
 
       const result = new Employee(name, id, email);
 
-      expect(result.getId()).toEqual(id);
+      expect(result.getEmail()).toEqual(email);
     });
   });
 
