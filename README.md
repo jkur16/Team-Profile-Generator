@@ -3,8 +3,7 @@
 ## Table of Contents
 * [Description](#Description)
 * [Technology](#Technology)
-* [Screenshots](#Screenshots)
-* [Live Site](#Live_Site)
+* [Screenshot](#Screenshot)
 * [License](#License)
 * [Contact](#Contact)
 
@@ -18,8 +17,8 @@ This application was created to generate a team profile based on user input usin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## Screenshots
-## Live Site
+## Screenshot
+![Screenshot](assets/Screenshot.jpg)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contact
